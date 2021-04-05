@@ -14,23 +14,23 @@ For good luck:
 System.out.println("Hello World!");
 ```
 
-#Contents
+# Contents
 - [Favorite Books](#favorite-books)
 - [Favorite Movies](#favorite-movies)
 - [Technical Skills to Learn](#technical-skills-to-learn)
 - [Connect](#connect)
 
-#Favorite Books
+# Favorite Books
 1. *Tortilla Flat* by John Steinbeck
 2. *Slaughterhouse-Five* by Kurt Vonnegut
 3. *The Humans* by Matt Haig
 
-#Favorite Movies
+# Favorite Movies
 - *Mad Max: Fury Road*
 - *Casino Royale*
 - *Grand Budapest Hotal*
 
-#Technical Skills to Learn
+# Technical Skills to Learn
 - [x] C/C++
 - [x] Java
 - [x] Python
@@ -43,7 +43,7 @@ System.out.println("Hello World!");
 - [] Machine Learning Algorithms
 - [] Deep Learning Algorithms
 
-#Connect
+# Connect
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sergio-talavera)
 
 
